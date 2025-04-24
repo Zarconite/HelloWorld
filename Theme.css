@@ -939,6 +939,9 @@ html:not(.visual-refresh) .folderIcon__48112 .folder__48112 {
 :root .scroller__99e7c {
   background-color: #2F3035 !important;
 }
+:root .scroller__629e4 {
+  background-color: #2F3035 !important;
+}
 :root .privateChannels__35e86 .channel__972a0 > .interactive_bf202d:is(:hover, :active, :focus, .selected_bf202d):before {
   content: "";
   position: absolute;
